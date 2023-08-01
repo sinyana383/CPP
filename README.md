@@ -1,5 +1,12 @@
+### CPP Projects to consolidate knowledge after boot camp
+
+- :green_circle: [Photolab](https://github.com/sinyana383/PhotoLab)
+  - Applying different filters to images
+- :green_circle: [SimpleNavigator](https://github.com/sinyana383/SimpleNavigator)
+  - Implementations of several basic algorithms on graphs
+
 ### CPP-Modules
-Dive into Object Oriented Programming
+CPP boot camp to dive into Object Oriented Programming
 
 - :file_folder: CPP00
   - just specifities of C++
